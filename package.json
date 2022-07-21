@@ -1,0 +1,25 @@
+{
+  "name": "v-chart",
+  "version": "0.0.0",
+  "description": "ECharts component for Vue",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niechao136/v-chart.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niechao136/v-chart/issues"
+  },
+  "homepage": "https://github.com/niechao136/v-chart#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "vite": "^2.9.14"
+  },
+  "dependencies": {
+    "echarts": "^5.3.3",
+    "vue": "^3.2.37"
+  }
+}
